@@ -15,9 +15,9 @@ const About = () => (
           Somos a <span className="text-gradient">Play Agency</span>
         </h2>
         <p className="mt-6 text-muted-foreground max-w-2xl mx-auto text-lg leading-relaxed">
-          Somos uma agência de marketing esportivo focada em transformar a presença digital de atletas. 
-          Combinamos estratégia, criatividade e dados para construir marcas pessoais que geram impacto, 
-          visibilidade e oportunidades reais.
+          Somos uma agência de marketing esportivo especializada no universo do futsal e futebol de campo. 
+          Combinamos estratégia, criatividade e dados para transformar a presença digital de atletas, 
+          construindo marcas pessoais que geram impacto, visibilidade e oportunidades reais.
         </p>
       </div>
 

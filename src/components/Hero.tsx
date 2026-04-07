@@ -11,7 +11,7 @@ const Hero = () => (
         <span className="text-gradient">marcas de alto impacto</span>
       </h1>
       <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto animate-fade-up" style={{ animationDelay: "0.15s" }}>
-        Posicionamento digital, gestão de redes sociais e construção de marca pessoal para atletas que querem dominar dentro e fora do jogo.
+        Posicionamento digital, gestão de redes sociais e construção de marca pessoal para atletas de futsal e futebol que querem dominar dentro e fora do campo.
       </p>
       <div className="mt-10 animate-fade-up" style={{ animationDelay: "0.3s" }}>
         <a
